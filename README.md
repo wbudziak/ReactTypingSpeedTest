@@ -1,2 +1,2 @@
 Typing speed test made in React 
-Unfortunately, is unfinished, due to lack of time
+Unfortunately, at this point is unfinished, due to lack of time
